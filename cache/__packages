@@ -1,0 +1,17 @@
+base
+knitr
+haven
+ggplot2
+stringr
+dplyr
+scales
+ggthemes
+extrafont
+ggrepel
+bindrcpp
+reshape2
+gdata
+lattice
+survival
+Formula
+Hmisc
