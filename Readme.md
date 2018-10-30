@@ -1,0 +1,1 @@
+Most of the files in this repository are inputs to the two knitr files Spahn_JMP_Before_The_American_Voter.Rnw and Spahn_Socialization_and_Stability.Rnw and the R markdown presentation file jobtalk.Rnw.  The files are opened in Rstudio and compiled using only the contents of this folder.  You may need to install additional R packages.
